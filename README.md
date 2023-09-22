@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suhel9149&label=Profile%20views&color=0e75b6&style=flat" alt="suhel9149" /> </p>
 
-- 🌱 I’m currently learning **data structure and algorithm , javascript , node js**
+- 🌱 I’m currently learning **data structure and algorithm , javascript , react js**
 
 - 📫 How to reach me **mdsuhel7737@gmail.com**
 
